@@ -1,0 +1,13 @@
+
+import './App.css';
+
+function App() {
+  const user="Garima"
+  return (
+    <div>
+      <h1> Hello {user}, Lets do Crud Operation </h1>
+    </div>
+  );
+}
+
+export default App;
